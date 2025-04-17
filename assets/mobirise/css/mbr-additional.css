@@ -921,6 +921,36 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-uIDm0I6NNc {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-uIDm0I6NNc .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uIDm0I6NNc .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uIDm0I6NNc .image-wrapper {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-top: 5px;
+  margin-right: 1rem;
+  overflow: hidden;
+}
+.cid-uIDm0I6NNc .image-wrapper img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
 .cid-uFWiLTV7Kf {
   padding-top: 0rem;
   padding-bottom: 1rem;
